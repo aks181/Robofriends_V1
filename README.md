@@ -1,3 +1,4 @@
+ROBOFRIENDS - A simple React App that can perform quick and dynamic search among the Robo-Version of Users fetched via an API call.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
